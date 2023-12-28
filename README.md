@@ -7,4 +7,5 @@
 * gcc 1.16.3
 ## Instruction to run the code
 
-## Note
+## 答案參考
+* <https://cbjsprogramdiary.com/%e5%9f%ba%e7%a4%8e%e9%a1%8c%e5%ba%ab/>
